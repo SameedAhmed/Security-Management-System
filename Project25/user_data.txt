@@ -1,6 +1,1 @@
 sameed,admin
-shameen,admin
-talha,admin
-admin,admin
-muqadas,1234
-Shahmeer,shahmeer
